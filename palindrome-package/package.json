@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/avnishsaravanan/palindrome_package.git"
+    "url": "git+https://github.com/avnishsaravanan/palindrome-package2.git"
   },
   "keywords": [
     "javascript",
@@ -18,7 +18,7 @@
   "author": "Avnish Saravanan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/avnishsaravanan/palindrome_package/issues"
+    "url": "https://github.com/avnishsaravanan/palindrome-package2/issues"
   },
-  "homepage": "https://github.com/avnishsaravanan/palindrome_package#readme"
+  "homepage": "https://github.com/avnishsaravanan/palindrome-package2#readme"
 }
